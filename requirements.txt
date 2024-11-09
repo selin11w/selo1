@@ -1,0 +1,5 @@
+pulp
+pandas
+streamlit
+plotly
+matplotlib.pyplot
